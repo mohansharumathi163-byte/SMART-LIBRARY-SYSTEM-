@@ -1,6 +1,8 @@
-SMART-LIBRARY-SYSTEM
-A console-based Smart Library Management System built in Java that simulates intelligent study-room booking using real-time environmental monitoring, auto-release scheduling, and a customer streak-badge system. This project demonstrates Object-Oriented Programming, thread scheduling, resource automation, and interactive menus for Admin and Users. 
-Features
+# SMART-LIBRARY-SYSTEM
+
+A console-based Smart Library Management System built in Java that simulates intelligent study-room booking using real-time environmental monitoring, auto-release scheduling, and a customer streak-badge system. This project demonstrates Object-Oriented Programming, thread scheduling, resource automation, and interactive menus for Admin and Users.
+
+## Features
 
 * Study Room Booking System
 * Real-Time Environmental Monitoring
@@ -39,3 +41,4 @@ This project helped me strengthen my understanding of:
 * Database integration
 * User authentication system
 * Analytics dashboard
+
